@@ -1,0 +1,1 @@
+runas /savecred /user:zenitronhq\daniel_zhang "netsh dhcp server 10.3.21.8 show scope > c:\abcd\bb.txt"
